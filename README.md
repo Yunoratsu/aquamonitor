@@ -72,7 +72,7 @@ cd SEU-REPOSITORIO
 pip install colorama
 
 # 3. Execute
-python Nicholas_Vieira_Ag11_DSI.py
+python aquamonitor.py
 ```
 
 > O `tkinter` já acompanha o Python no Windows e no macOS. No Linux (Debian/Ubuntu): `sudo apt install python3-tk`.
